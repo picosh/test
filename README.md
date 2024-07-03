@@ -1,3 +1,3 @@
-# test
+# Let's build an RNN
 
-testing git pr
+This repo demonstrates building an RNN using `pytorch`
